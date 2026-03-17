@@ -1,0 +1,14 @@
+C:\Projetos_Centeg\projetoaulacenteg\bin\Debug\net8.0\projetoaulacenteg.exe
+C:\Projetos_Centeg\projetoaulacenteg\bin\Debug\net8.0\projetoaulacenteg.deps.json
+C:\Projetos_Centeg\projetoaulacenteg\bin\Debug\net8.0\projetoaulacenteg.runtimeconfig.json
+C:\Projetos_Centeg\projetoaulacenteg\bin\Debug\net8.0\projetoaulacenteg.dll
+C:\Projetos_Centeg\projetoaulacenteg\bin\Debug\net8.0\projetoaulacenteg.pdb
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.AssemblyInfo.vb
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.dll
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\refint\projetoaulacenteg.dll
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.pdb
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\projetoaulacenteg.genruntimeconfig.cache
+C:\Projetos_Centeg\projetoaulacenteg\obj\Debug\net8.0\ref\projetoaulacenteg.dll
