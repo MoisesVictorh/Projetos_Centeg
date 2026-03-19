@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\maiormenor\bin\Debug\net8.0\maiormenor.exe
+C:\Projetos_Centeg\maiormenor\bin\Debug\net8.0\maiormenor.deps.json
+C:\Projetos_Centeg\maiormenor\bin\Debug\net8.0\maiormenor.runtimeconfig.json
+C:\Projetos_Centeg\maiormenor\bin\Debug\net8.0\maiormenor.dll
+C:\Projetos_Centeg\maiormenor\bin\Debug\net8.0\maiormenor.pdb
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.AssemblyInfo.vb
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.sourcelink.json
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.dll
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\refint\maiormenor.dll
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.pdb
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\maiormenor.genruntimeconfig.cache
+C:\Projetos_Centeg\maiormenor\obj\Debug\net8.0\ref\maiormenor.dll
