@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\sistemas\bin\Debug\net8.0\sistemas.exe
+C:\Projetos_Centeg\sistemas\bin\Debug\net8.0\sistemas.deps.json
+C:\Projetos_Centeg\sistemas\bin\Debug\net8.0\sistemas.runtimeconfig.json
+C:\Projetos_Centeg\sistemas\bin\Debug\net8.0\sistemas.dll
+C:\Projetos_Centeg\sistemas\bin\Debug\net8.0\sistemas.pdb
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.AssemblyInfo.vb
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.sourcelink.json
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.dll
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\refint\sistemas.dll
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.pdb
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\sistemas.genruntimeconfig.cache
+C:\Projetos_Centeg\sistemas\obj\Debug\net8.0\ref\sistemas.dll
