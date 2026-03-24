@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("sistemas"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e3eeb14751e35d0d9d255cc15c40fc5562a6295"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b70119409914f1a180670dbd48d5f49170a654d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("sistemas"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("sistemas"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
