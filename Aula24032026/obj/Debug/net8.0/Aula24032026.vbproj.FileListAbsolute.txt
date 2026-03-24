@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.AssemblyInfo.vb
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.sourcelink.json
+C:\Projetos_Centeg\Aula24032026\bin\Debug\net8.0\Aula24032026.exe
+C:\Projetos_Centeg\Aula24032026\bin\Debug\net8.0\Aula24032026.deps.json
+C:\Projetos_Centeg\Aula24032026\bin\Debug\net8.0\Aula24032026.runtimeconfig.json
+C:\Projetos_Centeg\Aula24032026\bin\Debug\net8.0\Aula24032026.dll
+C:\Projetos_Centeg\Aula24032026\bin\Debug\net8.0\Aula24032026.pdb
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.dll
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\refint\Aula24032026.dll
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.pdb
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\Aula24032026.genruntimeconfig.cache
+C:\Projetos_Centeg\Aula24032026\obj\Debug\net8.0\ref\Aula24032026.dll
