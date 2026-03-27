@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Projetos_Centeg\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Projetos_Centeg\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Projetos_Centeg\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Projetos_Centeg\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.vb
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Projetos_Centeg\Arrays\obj\Debug\net8.0\ref\Arrays.dll
