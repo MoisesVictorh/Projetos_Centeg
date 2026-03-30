@@ -8,7 +8,7 @@ Module Program
          
 
         for contabilizer = 1 to 10 
-         console.writeline("5 x " & contabilizer = & * 5)
+         console.writeline("5 x " & contabilizer & " = " & (contabilizer*5))
         next
 
     

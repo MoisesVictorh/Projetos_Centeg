@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Arrays"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc72887ec2cace0f45435ae79314bcfe1c427b7c"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2820f27b09fb04b6abd37705b7d0d5c22fe10c5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Arrays"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Arrays"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
