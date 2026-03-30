@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.AssemblyInfo.vb
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.sourcelink.json
+C:\Projetos_Centeg\LISTA\bin\Debug\net8.0\LISTA.exe
+C:\Projetos_Centeg\LISTA\bin\Debug\net8.0\LISTA.deps.json
+C:\Projetos_Centeg\LISTA\bin\Debug\net8.0\LISTA.runtimeconfig.json
+C:\Projetos_Centeg\LISTA\bin\Debug\net8.0\LISTA.dll
+C:\Projetos_Centeg\LISTA\bin\Debug\net8.0\LISTA.pdb
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.dll
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\refint\LISTA.dll
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.pdb
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\LISTA.genruntimeconfig.cache
+C:\Projetos_Centeg\LISTA\obj\Debug\net8.0\ref\LISTA.dll
