@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfo.vb
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.sourcelink.json
+C:\Projetos_Centeg\Desafio\bin\Debug\net8.0\Desafio.exe
+C:\Projetos_Centeg\Desafio\bin\Debug\net8.0\Desafio.deps.json
+C:\Projetos_Centeg\Desafio\bin\Debug\net8.0\Desafio.runtimeconfig.json
+C:\Projetos_Centeg\Desafio\bin\Debug\net8.0\Desafio.dll
+C:\Projetos_Centeg\Desafio\bin\Debug\net8.0\Desafio.pdb
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.dll
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\refint\Desafio.dll
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.pdb
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\Desafio.genruntimeconfig.cache
+C:\Projetos_Centeg\Desafio\obj\Debug\net8.0\ref\Desafio.dll
