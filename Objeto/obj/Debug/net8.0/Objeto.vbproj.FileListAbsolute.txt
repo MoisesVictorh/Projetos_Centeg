@@ -1,0 +1,15 @@
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.AssemblyInfoInputs.cache
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.AssemblyInfo.vb
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.vbproj.CoreCompileInputs.cache
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.sourcelink.json
+C:\Projetos_Centeg\Objeto\bin\Debug\net8.0\Objeto.exe
+C:\Projetos_Centeg\Objeto\bin\Debug\net8.0\Objeto.deps.json
+C:\Projetos_Centeg\Objeto\bin\Debug\net8.0\Objeto.runtimeconfig.json
+C:\Projetos_Centeg\Objeto\bin\Debug\net8.0\Objeto.dll
+C:\Projetos_Centeg\Objeto\bin\Debug\net8.0\Objeto.pdb
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.dll
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\refint\Objeto.dll
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.pdb
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\Objeto.genruntimeconfig.cache
+C:\Projetos_Centeg\Objeto\obj\Debug\net8.0\ref\Objeto.dll
